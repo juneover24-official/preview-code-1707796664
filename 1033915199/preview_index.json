@@ -1,86 +1,8 @@
 {
   "qq_number": "1707796664",
   "group_number": "1033915199",
-  "updated_at": "2026-04-22T16:19:21.451046",
+  "updated_at": "2026-04-23T15:52:38.254769",
   "skins": [
-    {
-      "name": "Qioi-失眠信箱",
-      "file": "Qioi-失眠信箱脆.bds",
-      "thumb": "Qioi-失眠信箱脆.bds_py_26_light_thumb.png",
-      "full": "Qioi-失眠信箱脆.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-赤瞳目黒",
-      "file": "Qioi-赤瞳目黒脆.bds",
-      "thumb": "Qioi-赤瞳目黒脆.bds_py_26_light_thumb.png",
-      "full": "Qioi-赤瞳目黒脆.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-赤瞳目黒",
-      "file": "Qioi-赤瞳目黒闷.bds",
-      "thumb": "Qioi-赤瞳目黒闷.bds_py_26_light_thumb.png",
-      "full": "Qioi-赤瞳目黒闷.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-萌え物氧氣",
-      "file": "Qioi-萌え物氧氣脆.bds",
-      "thumb": "Qioi-萌え物氧氣脆.bds_py_26_light_thumb.png",
-      "full": "Qioi-萌え物氧氣脆.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-骨骼迴形針",
-      "file": "Qioi-骨骼迴形針脆.bds",
-      "thumb": "Qioi-骨骼迴形針脆.bds_py_26_light_thumb.png",
-      "full": "Qioi-骨骼迴形針脆.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-骨骼迴形針",
-      "file": "Qioi-骨骼迴形針闷.bds",
-      "thumb": "Qioi-骨骼迴形針闷.bds_py_26_light_thumb.png",
-      "full": "Qioi-骨骼迴形針闷.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-異次元貓咪碎片",
-      "file": "Qioi-異次元貓咪碎片单.bds",
-      "thumb": "Qioi-異次元貓咪碎片单.bds_py_26_light_thumb.png",
-      "full": "Qioi-異次元貓咪碎片单.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-唉 又萌混过关",
-      "file": "Qioi-唉又萌混过关脆.bds",
-      "thumb": "Qioi-唉又萌混过关脆.bds_py_26_light_thumb.png",
-      "full": "Qioi-唉又萌混过关脆.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-異次元貓咪碎片",
-      "file": "Qioi-異次元貓咪碎片脆.bds",
-      "thumb": "Qioi-異次元貓咪碎片脆.bds_py_26_light_thumb.png",
-      "full": "Qioi-異次元貓咪碎片脆.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-失眠信箱",
-      "file": "Qioi-失眠信箱闷.bds",
-      "thumb": "Qioi-失眠信箱闷.bds_py_26_light_thumb.png",
-      "full": "Qioi-失眠信箱闷.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-萌え物氧氣",
-      "file": "Qioi-萌え物氧氣闷.bds",
-      "thumb": "Qioi-萌え物氧氣闷.bds_py_26_light_thumb.png",
-      "full": "Qioi-萌え物氧氣闷.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-唉 又萌混过关",
-      "file": "Qioi-唉又萌混过关闷.bds",
-      "thumb": "Qioi-唉又萌混过关闷.bds_py_26_light_thumb.png",
-      "full": "Qioi-唉又萌混过关闷.bds_py_26_light.png"
-    },
-    {
-      "name": "Qioi-異次元貓咪碎片",
-      "file": "Qioi-異次元貓咪碎片闷.bds",
-      "thumb": "Qioi-異次元貓咪碎片闷.bds_py_26_light_thumb.png",
-      "full": "Qioi-異次元貓咪碎片闷.bds_py_26_light.png"
-    },
     {
       "name": "Qioi-赤瞳目黒",
       "file": "Qioi-赤瞳目黒脆.bdi",
@@ -158,6 +80,84 @@
       "file": "Qioi-異次元貓咪碎片单.bdi",
       "thumb": "Qioi-異次元貓咪碎片单.bdi_py_26_light_thumb.png",
       "full": "Qioi-異次元貓咪碎片单.bdi_py_26_light.png"
+    },
+    {
+      "name": "Qioi-失眠信箱",
+      "file": "Qioi-失眠信箱脆.bds",
+      "thumb": "Qioi-失眠信箱脆.bds_py_26_light_thumb.png",
+      "full": "Qioi-失眠信箱脆.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-赤瞳目黒",
+      "file": "Qioi-赤瞳目黒脆.bds",
+      "thumb": "Qioi-赤瞳目黒脆.bds_py_26_light_thumb.png",
+      "full": "Qioi-赤瞳目黒脆.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-赤瞳目黒",
+      "file": "Qioi-赤瞳目黒闷.bds",
+      "thumb": "Qioi-赤瞳目黒闷.bds_py_26_light_thumb.png",
+      "full": "Qioi-赤瞳目黒闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-萌え物氧氣",
+      "file": "Qioi-萌え物氧氣脆.bds",
+      "thumb": "Qioi-萌え物氧氣脆.bds_py_26_light_thumb.png",
+      "full": "Qioi-萌え物氧氣脆.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-骨骼迴形針",
+      "file": "Qioi-骨骼迴形針脆.bds",
+      "thumb": "Qioi-骨骼迴形針脆.bds_py_26_light_thumb.png",
+      "full": "Qioi-骨骼迴形針脆.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-骨骼迴形針",
+      "file": "Qioi-骨骼迴形針闷.bds",
+      "thumb": "Qioi-骨骼迴形針闷.bds_py_26_light_thumb.png",
+      "full": "Qioi-骨骼迴形針闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-異次元貓咪碎片",
+      "file": "Qioi-異次元貓咪碎片单.bds",
+      "thumb": "Qioi-異次元貓咪碎片单.bds_py_26_light_thumb.png",
+      "full": "Qioi-異次元貓咪碎片单.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-唉 又萌混过关",
+      "file": "Qioi-唉又萌混过关脆.bds",
+      "thumb": "Qioi-唉又萌混过关脆.bds_py_26_light_thumb.png",
+      "full": "Qioi-唉又萌混过关脆.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-異次元貓咪碎片",
+      "file": "Qioi-異次元貓咪碎片脆.bds",
+      "thumb": "Qioi-異次元貓咪碎片脆.bds_py_26_light_thumb.png",
+      "full": "Qioi-異次元貓咪碎片脆.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-失眠信箱",
+      "file": "Qioi-失眠信箱闷.bds",
+      "thumb": "Qioi-失眠信箱闷.bds_py_26_light_thumb.png",
+      "full": "Qioi-失眠信箱闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-萌え物氧氣",
+      "file": "Qioi-萌え物氧氣闷.bds",
+      "thumb": "Qioi-萌え物氧氣闷.bds_py_26_light_thumb.png",
+      "full": "Qioi-萌え物氧氣闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-唉 又萌混过关",
+      "file": "Qioi-唉又萌混过关闷.bds",
+      "thumb": "Qioi-唉又萌混过关闷.bds_py_26_light_thumb.png",
+      "full": "Qioi-唉又萌混过关闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Qioi-異次元貓咪碎片",
+      "file": "Qioi-異次元貓咪碎片闷.bds",
+      "thumb": "Qioi-異次元貓咪碎片闷.bds_py_26_light_thumb.png",
+      "full": "Qioi-異次元貓咪碎片闷.bds_py_26_light.png"
     }
   ]
 }
